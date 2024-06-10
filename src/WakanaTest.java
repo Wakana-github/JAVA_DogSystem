@@ -2,7 +2,7 @@
 /**
  * this class is for a test to check DogSystem's functions
  *
- * @author  Wakana Gushi
+ * @author  Wakana.G
  * @version 22 May 2023
  */
 

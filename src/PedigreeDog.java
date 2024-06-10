@@ -1,7 +1,7 @@
 /**
  * pedigreeDog is a subclass of dog.
  *
- * @author  Wakana Gushi
+ * @author  Wakana.G
  * @version 22 May 2023
  */
 

@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * This class defines functions for this system.
  *
- * @author  Wakana Gushi
+ * @author  Wakana.G
  * @version 22 May 2023
  */
 
